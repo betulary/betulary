@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Betül</h1>
+<h3 align="center">A Frontend Developer from Turkey</h3>
 
-<!--
-**betulary/betulary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React.js, Next Js Javascript etc.**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Javascript, CSS and more.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **betulary@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:betulary@gmail.com"><img align="center" src="https://brandlogos.net/wp-content/uploads/2020/10/gmail-logo.png" alt="betulary" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/betulary" target="blank"><img align="center" src="https://static.licdn.com/sc/h/2lte9rx50p160huhpjiynt3mn" alt="betulary" height="30" width="30" /></a>
+<a href="https://twitter.com/bettaary" target="blank"><img align="center" src="https://abs.twimg.com/favicons/twitter.ico" alt="12544106" height="30" width="30" /></a>
+<a href="https://instagram.com/bettaary" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="bettaary" height="30" width="30" /></a>
+</p>
+
+<h3 align="left">Technologies:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
+<a href="https://material-ui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="26" height="26"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="tailwind" width="35" height="35"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
+
+<h3 align="left">Tools:</h3>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
+<a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
+<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
+<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="35" height="35"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="30" height="30"/> </a> 
+<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
+<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="27" height="27"/> </a>
+<a href="https://www.notion.so/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="27" height="27"/> </a>
+
+</p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=betulary&show_icons=true&theme=radical&locale=en&layout=compact" alt="betulary" width="45%" /> &nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=betulary&show_icons=true&theme=dark&locale=en" alt="betulary" width="45%" />
+</p>
+
+
